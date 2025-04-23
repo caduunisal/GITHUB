@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/cadu/GITHUB/aix","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
