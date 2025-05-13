@@ -1,0 +1,17 @@
+---
+bandas:
+  - "3 doors down"
+  - "Scorpions"
+  - "Luke Combs"
+
+cadastro:
+  nome: carlos
+  sobre: ramos
+  idade: 47
+  endereco:
+    cidade: santa barbara
+    estado: sao paulo
+    rua: euclides da cunha
+  bandas-preferidas: "{{ bandas }}"
+
+...
